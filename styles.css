@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;s
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height:1.5;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+.main-container {
+    background-color:rgb(231, 47, 178);
+    width: 100% ;
+    height: 100% ;
+    position:relative;
+    font-family: 'Mulish', sans-serif;
+}
+
+.text{
+    color:#fff;
+    text-align: center;
+    font-size: 100px;
+}
+
+.inner-container {
+    border: 5px solid black;
+    background-color:rgb(231, 47, 178);
+    padding: 10px 5px 20px 5px;
+    font-family: 'Mulish', sans-serif;
+};
